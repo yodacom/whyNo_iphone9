@@ -1,0 +1,11 @@
+{
+  "name": "Jokes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yodacom/whyNo_iphone9.git",
+  "author": "Jeremy Black <jb@yodacom.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
